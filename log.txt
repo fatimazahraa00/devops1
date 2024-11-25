@@ -1,0 +1,40 @@
+commit 088e0596ebe7410cc7e94fcd751f112c12612cfc
+Author: fatimazahraa@gmail.com <fatimazahraa@gmail.com>
+Date:   Mon Nov 25 13:35:59 2024 +0100
+
+    Revert "add changes to the README.md file in yassine-new_feature branch"
+    
+    This reverts commit 1002bfe9abdc61d53a761bb9ed1b34b8a070b19e.
+
+commit 1002bfe9abdc61d53a761bb9ed1b34b8a070b19e
+Author: fatimazahraa@gmail.com <fatimazahraa@gmail.com>
+Date:   Mon Nov 25 13:32:02 2024 +0100
+
+    add changes to the README.md file in yassine-new_feature branch
+
+commit 90013759b68cd9fe638af12b638a72785be1c2bb
+Merge: b098364 b1d33d7
+Author: fatimazahraa00 <chafaifatimazahraa@gmail.com>
+Date:   Mon Nov 25 13:56:38 2024 +0100
+
+    Merge pull request #1 from fatimazahraa00/%USERNAME-new_feature
+    
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit b1d33d7225c0a1e967bb53031064db7b463b698b
+Author: fatimazahraa@gmail.com <fatimazahraa@gmail.com>
+Date:   Mon Nov 25 13:05:26 2024 +0100
+
+    adding readme and gitignore file %USERNAME-new_feature
+
+commit b0983645a0e0b108bacaeb73019172008be98381
+Author: fatimazahraa@gmail.com <fatimazahraa@gmail.com>
+Date:   Mon Nov 25 12:55:50 2024 +0100
+
+    adding test file to the dev branch
+
+commit e4de8501af51c6976da62e0ecb98c97f6002aece
+Author: fatimazahraa@gmail.com <fatimazahraa@gmail.com>
+Date:   Mon Nov 25 12:48:30 2024 +0100
+
+    adding Task1 folder and the README file on the master branch
