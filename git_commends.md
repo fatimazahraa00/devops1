@@ -31,4 +31,9 @@ git push --set-upstream origin HEAD
 
 ![3](https://github.com/user-attachments/assets/c6b042b3-10b5-4852-9921-6585c63f9cc3)
 
+git checkout -b %USERNAME-new_feature
+
+![4](https://github.com/user-attachments/assets/b88a43d0-6726-43d1-8ef2-f31c9744f421)
+
+touch README.md
 
